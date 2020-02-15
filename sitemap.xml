@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/Rclean-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/clean.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/code_graph.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/get_libs.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/get_vars.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/keep.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/long_script.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/reference/simple_script.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/Rclean/articles/Rclean.html</loc>
+  </url>
+</urlset>

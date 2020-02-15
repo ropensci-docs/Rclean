@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7099ed70dc7afef52ecb9e7e51d7171d99439742",
+    "author": "MKLau <MKLau@users.noreply.github.com>",
+    "time": "2020-02-15 22:21:31",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #203 from danielskatz/patch-1\n\nfixes to casing in bib"
+  },
+  "remote": "https://github.com/ropensci/Rclean",
+  "pkg": "Rclean"
+}
